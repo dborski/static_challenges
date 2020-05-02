@@ -18,12 +18,26 @@ p {
   font-size: 12px;
 }
 
-div {
-  background-color: red;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+div.top {
+  background-color: maroon;
+  color: white;
+  font-family: arial;
+  font-size: 30px;
+  width: 800px;
+  border: 0px solid white;
+  padding: 10px;
+  margin: 0px;
+}
+
+div.second {
+  background-color: #444444;
+  color: white;
+  font-family: arial;
+  font-size: 30px;
+  width: 800px;
+  border: 0px solid white;
+  padding: 10px;
+  margin: 0px;
 }
 
 footer {
